@@ -45,9 +45,9 @@ cd caminho/para/o/diretorio/people-manager
 
 6 - Criar o ```.env``` a partir do ```.env.example```
 
-7 - Gerar APP_KEY com o comando
+7 - Gerar APP_KEY e aplicar no .env
 ```
-php artisan key:generate
+php artisan key:generate --show
 ```
 
 8 - Fazer o build dos serviços com o Docker
