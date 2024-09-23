@@ -2,7 +2,13 @@
 
 ## Tecnologias
 
+- Laravel - Framework PHP utilizado para construir a API.
+- MySQL - Banco de dados para armazenar dados do modelo Pessoas.
+
+A aplicação utiliza Docker Compose para orquestrar os contêineres.
+
 ## Objetivo
+O objetivo deste projeto é desenvolver uma API simples que implemente um CRUD (Criar, Ler, Atualizar, Deletar) para o modelo Pessoa. A API permitirá operações básicas de gerenciamento de dados, possibilitando a interação com informações de pessoas de maneira eficiente e organizada.
 
 ## Como rodar a API
 
